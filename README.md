@@ -8,11 +8,12 @@ Author: tanbaycu⭕
 
 ## 1. Cài đặt Công cụ Cần thiết
 
-### 1.1 Cài đặt Git
+### 1.1 Cài đặt Git - [Hướng dẫn ở đây ạ](https://funix.edu.vn/chia-se-kien-thuc/cai-dat-git-va-git-bash-windows/)
 1. Truy cập [https://git-scm.com/download/win](https://git-scm.com/download/win)
 2. Tải bản cài đặt Git cho Windows
-3. Chạy file cài đặt và làm theo hướng dẫn (để mặc định các tùy chọn nếu bạn không chắc chắn)
-4. Sau khi cài đặt, sử dụng tổ hợp phím Window + X ấn chọn Terminal và gõ `git --version` để kiểm tra
+3. Vào phần Tệp đã tải xuống Click chọn vào Git vừa tải về -> Allow để cài đặt 
+4. Chạy file cài đặt và làm theo hướng dẫn (để mặc định các tùy chọn nếu bạn không chắc chắn)
+5. Sau khi cài đặt, sử dụng tổ hợp phím Window + X ấn chọn Terminal và gõ `git --version` để kiểm tra
 
 ### 1.2 Cài đặt VSCode
 1. Truy cập [https://code.visualstudio.com/](https://code.visualstudio.com/)
