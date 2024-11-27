@@ -1,4 +1,4 @@
-# Hướng dẫn Cài đặt và Sử dụng Dự án 💜🌼
+# Hướng dẫn Cài đặt và Sử dụng Dự án trên 💜🌼
 Author: tanbaycu⭕
 ## Mục lục
 - [1. Cài đặt Công cụ Cần thiết](#1-cài-đặt-công-cụ-cần-thiết)
